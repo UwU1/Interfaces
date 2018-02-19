@@ -15,7 +15,8 @@ public class Interfaces {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int a=5;
+        String Mechanic="Folgende";
+        int Kulanzwert=123;
         // TODO code application logic here
     }
     
